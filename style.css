@@ -1,10 +1,15 @@
 body {
     background-color: #f8f9fa;
+<<<<<<< HEAD
+=======
+    font-family: Arial, sans-serif;
+>>>>>>> aa449fa9efb7530694f9254d96da213ee62cc431
 }
 
 .color-box {
     width: 150px;
     height: 150px;
+<<<<<<< HEAD
     border: 2px solid #000;
     margin-top: 20px;
 }
@@ -17,4 +22,14 @@ body {
 .input-rgb {
     width: 80px;
     text-align: center;
+=======
+    background-color: #000;
+    border: 2px solid #333;
+    border-radius: 10px;
+}
+
+input[type="number"] {
+    text-align: center;
+    margin-top: 5px;
+>>>>>>> aa449fa9efb7530694f9254d96da213ee62cc431
 }
